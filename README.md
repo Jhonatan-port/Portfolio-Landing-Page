@@ -6,5 +6,5 @@ Seções: Home, sobre mim e projetos como esqueleto pronto, adicionado decoraç�
 
 Oque falta:
 
-  1-Inserir a seção Habilidades.
+  1-Inserir a seção Habilidades.<br>
   2-Colocar os botões de cada seção para fazer o scroll automático 
